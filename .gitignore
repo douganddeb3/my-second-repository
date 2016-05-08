@@ -1,2 +1,2 @@
 #Ignore all SQLite databases
-db/*.sqlite2
+db/*.sqlite3
